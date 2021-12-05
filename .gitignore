@@ -1,4 +1,10 @@
-_site
+_posts
+Gemfile
+Gemfile.lock
+README.md
+_config.yml
+about.markdown
+index.markdown
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
